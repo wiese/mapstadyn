@@ -369,7 +369,7 @@ Mapstadyn.prototype.dynamize = dynamize;
 Mapstadyn.prototype.getElementsByClassName = getElementsByClassName;
 Mapstadyn.prototype.convertColorNameToHex = convertColorNameToHex;
 Mapstadyn.prototype.debug = debug;
-Mapstadyn.prototype.MAP_PIN_HOST = 'http://chart.apis.google.com';
+Mapstadyn.prototype.MAP_PIN_HOST = 'https://chart.apis.google.com';
 Mapstadyn.prototype.MAP_PIN_ICON_TYPES = {
 	normal: {
 		dimensions: { x: 20, y: 32 },
